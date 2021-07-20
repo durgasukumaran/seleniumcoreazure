@@ -3,7 +3,6 @@ trigger:
 pool:
   vmImage: 'durgasukumaran/seleniumcorechrome'
 steps:
-- task: TestAutomation
   
 - script: |
     dotnet test
