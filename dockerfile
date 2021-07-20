@@ -1,3 +1,4 @@
+# Docker file for selenium core chrome image
 FROM mcr.microsoft.com/dotnet/core/sdk:2.2-stretch
 
  # Install Chrome
