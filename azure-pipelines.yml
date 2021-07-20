@@ -3,7 +3,7 @@ trigger:
 pool:
   vmImage: 'ubuntu-18.04'
 
-container: durgasukumaran/seleniumcorechrome:latest
+container: ubuntu:18.04
 
 steps:
 - script: |
