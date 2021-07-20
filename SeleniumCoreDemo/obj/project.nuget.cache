@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+EvI0Rp0IZw5b/MHnO4nVNRXOKr+pRgpOr7TwraCue6eDWJ3tlDnF3mK5hWaBX24obbWI/PKNRK3zdEMoEW3lQ==",
+  "dgSpecHash": "/2BSgfjFLMNXuL7dNB/AiTkTktLHQ/BvLRCHVoKjOcG+HuVehERat6T1oKDoSCF3uWxvN0LmYApCJKpLE4dmTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dsuku\\source\\repos\\SeleniumCoreDemo\\SeleniumCoreDemo\\SeleniumCoreAzure.csproj",
+  "projectFilePath": "C:\\projects\\seleniumcoreazure\\SeleniumCoreDemo\\SeleniumCoreAzure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dsuku\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\dsuku\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

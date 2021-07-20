@@ -1,6 +1,7 @@
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using System.Runtime.InteropServices;
 
 namespace SeleniumCoreDemo
 {
@@ -16,8 +17,14 @@ namespace SeleniumCoreDemo
         [Test]
         public void Test1()
         {
+            //Add chrome options 
+            ChromeOptions options = new ChromeOptions();
+            options.AddArguments("--headless", "--window-size=1920,1200", "--no-sandbox");
+
             //Browser driver
-            IWebDriver webDriver = new ChromeDriver();
+            IWebDriver webDriver = new ChromeDriver(options);
+
+
             //Navigate to URL
             webDriver.Navigate().GoToUrl("http://eaapp.somee.com/");
 

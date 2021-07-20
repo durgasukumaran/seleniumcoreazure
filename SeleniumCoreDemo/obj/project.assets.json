@@ -4223,11 +4223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dsuku\\source\\repos\\SeleniumCoreDemo\\SeleniumCoreDemo\\SeleniumCoreAzure.csproj",
+      "projectUniqueName": "C:\\projects\\seleniumcoreazure\\SeleniumCoreDemo\\SeleniumCoreAzure.csproj",
       "projectName": "SeleniumCoreAzure",
-      "projectPath": "C:\\Users\\dsuku\\source\\repos\\SeleniumCoreDemo\\SeleniumCoreDemo\\SeleniumCoreAzure.csproj",
+      "projectPath": "C:\\projects\\seleniumcoreazure\\SeleniumCoreDemo\\SeleniumCoreAzure.csproj",
       "packagesPath": "C:\\Users\\dsuku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dsuku\\source\\repos\\SeleniumCoreDemo\\SeleniumCoreDemo\\obj\\",
+      "outputPath": "C:\\projects\\seleniumcoreazure\\SeleniumCoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dsuku\\AppData\\Roaming\\NuGet\\NuGet.Config",
