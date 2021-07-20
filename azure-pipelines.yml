@@ -3,12 +3,9 @@ trigger:
 pool:
   vmImage: 'ubuntu-18.04'
 
-container: 'durgasukumaran/seleniumcorechrome'
+container: durgasukumaran/seleniumcorechrome:latest
 
 steps:
 - script: |
     dotnet test
   displayName: 'selenium core in azure'
-
-
-
