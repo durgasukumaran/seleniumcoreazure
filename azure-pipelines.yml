@@ -1,0 +1,13 @@
+trigger:
+- master
+pool:
+  vmImage: 'durgasukumaran/seleniumcorechrome'
+steps:
+- task: TestAutomation
+  
+- script: |
+    dotnet test
+  displayName: 'selenium core in azure'
+
+
+
